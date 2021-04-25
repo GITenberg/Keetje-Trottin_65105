@@ -5,6 +5,9 @@ contributor:
     agent_name: Marquet, Albert
     gutenberg_agent_id: '53185'
     url: http://www.gutenberg.org/2009/agents/53185
+covers:
+- cover_type: archival
+  image_path: 65105-h/images/cover.jpg
 creator:
   author:
     agent_name: Doff, Neel
@@ -18,6 +21,8 @@ creator:
     - https://en.wikipedia.org/wiki/Neel_Doff
     - https://nl.wikipedia.org/wiki/Neel_Doff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65105#Keetje-Trottin
 gutenberg_issued: '2021-04-18'
 gutenberg_type: Text
 identifiers:
